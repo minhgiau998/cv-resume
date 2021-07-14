@@ -66,11 +66,13 @@ module.exports = {
       80: "20rem",
       96: "24rem",
       // custom value
+      "14px": "14px",
       "29px": "29px",
       "42px": "42px",
       "50px": "50px",
       "73px": "73px",
       "88px": "88px",
+      "230px": "230px",
       "325px": "325px",
       "404px": "404px",
       "472px": "472px",
@@ -313,6 +315,7 @@ module.exports = {
       "9xl": ["8rem", { lineHeight: "1" }],
       // custom value
       "11-22": ["11px", { lineHeight: "22px" }],
+      "10-10": ["10px", { lineHeight: "10px" }],
     },
     fontWeight: {
       thin: "100",
@@ -578,6 +581,8 @@ module.exports = {
       full: "100%",
       min: "min-content",
       max: "max-content",
+      // custom value
+      "325px": "325px",
     },
     objectPosition: {
       bottom: "bottom",
