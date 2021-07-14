@@ -24,6 +24,10 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
+      // custom value
+      tangaroa: "#021335",
+      raven: "#717886",
+      orange: "#FF5216",
     },
     spacing: {
       px: "1px",
@@ -61,6 +65,16 @@ module.exports = {
       72: "18rem",
       80: "20rem",
       96: "24rem",
+      // custom value
+      "29px": "29px",
+      "42px": "42px",
+      "50px": "50px",
+      "73px": "73px",
+      "88px": "88px",
+      "325px": "325px",
+      "404px": "404px",
+      "472px": "472px",
+      "881px": "881px",
     },
     animation: {
       none: "none",
@@ -150,6 +164,9 @@ module.exports = {
       "2xl": "1rem",
       "3xl": "1.5rem",
       full: "9999px",
+      // custom value
+      "21px": "21px",
+      "36px": "36px",
     },
     borderWidth: {
       DEFAULT: "1px",
@@ -294,6 +311,8 @@ module.exports = {
       "7xl": ["4.5rem", { lineHeight: "1" }],
       "8xl": ["6rem", { lineHeight: "1" }],
       "9xl": ["8rem", { lineHeight: "1" }],
+      // custom value
+      "11-22": ["11px", { lineHeight: "22px" }],
     },
     fontWeight: {
       thin: "100",
