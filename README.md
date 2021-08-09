@@ -1,53 +1,78 @@
-# Tailwind CSS Playground
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+# CV Resume Design 📃
 
-To get started:
+This website is a blueprint for a cv resume. Designed by [Freebie](https://freebiesui.com/).
+## Demo
 
-1. Clone the repository:
+[cv-resume-tailwind.vercel.app](cv-resume-tailwind.vercel.app)
 
-   ```bash
-   git clone https://github.com/minhgiau998/cv-resume.git cv-resume
 
-   cd cv-resume
-   ```
+  
 
-2. Install the dependencies:
+## Screenshots
 
-   ```bash
-   # Using npm
-   npm install
+![demo.png](https://raw.githubusercontent.com/minhgiau998/richnguyen/master/images/project-3.png)
+  ## Color Reference
 
-   # Using Yarn
-   yarn
-   ```
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Tangaroa | ![#021335](https://via.placeholder.com/10/021335?text=+) #021335 |
+| Raven | ![#717886](https://via.placeholder.com/10/717886?text=+) #717886 |
+| Orange | ![#FF5216](https://via.placeholder.com/10/FF5216?text=+) #FF5216 |
 
-3. Start the development server:
 
-   ```bash
-   # Using npm
-   npm run serve
+## Tech Stack
 
-   # Using Yarn
-   yarn serve
-   ```
+**Client:** TailwindCSS
 
-   Now you should be able to see the project running at localhost:8080.
+**Server:** Node
 
-4. Open `public/index.html` in your editor and start experimenting!
+  
+## Authors
 
-## Building for production
+- [@minhgiau998](https://github.com/minhgiau998)
 
-Even though this isn't necessarily a starter kit for a proper project, we've included an example of setting up [cssnano](https://cssnano.co/) to optimize your CSS for production.
+  
+## Run Locally
 
-To build an optimized version of your CSS, simply run:
+Clone the repository
+
+```bash
+git clone https://github.com/minhgiau998/cv-resume.git cv-resume
+
+cd cv-resume
+```
+
+Install the dependencies
 
 ```bash
 # Using npm
-npm run production
+npm install
 
 # Using Yarn
-yarn production
+yarn
 ```
 
-After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+Start the development server
+
+```bash
+# Using npm
+npm run serve
+
+# Using Yarn
+yarn serve
+```
+
+Now you should be able to see the project running at localhost:8080.
+
+Open ```public/index.html``` in your editor and start experimenting!
+
+  
+## Support
+
+Please ⭐️ this repository if this project helped you!
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
