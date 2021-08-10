@@ -8,7 +8,7 @@ This website is a blueprint for a cv resume. Designed by [Freebie](https://freeb
 
 ## Screenshots
 
-![demo.png](https://drive.google.com/file/d/11U8BJznIv42pOipXuZ5_6FOcn_-ANXX2/view?usp=sharing)
+![demo.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e96e4ffb-0ac8-4eda-ae34-bebec58ace09/deowcpa-5720e59a-bc2b-4b01-9b39-73e8284dc465.png/v1/fill/w_1147,h_696,q_70,strp/cv_resume_by_minhgiau998_deowcpa-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzc3IiwicGF0aCI6IlwvZlwvZTk2ZTRmZmItMGFjOC00ZWRhLWFlMzQtYmViZWM1OGFjZTA5XC9kZW93Y3BhLTU3MjBlNTlhLWJjMmItNGIwMS05YjM5LTczZTgyODRkYzQ2NS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Qy1h3yWqyByfuxNoXILgUvRfn-f2WELex90uk42c2go)
 
 ## Color Reference
 
