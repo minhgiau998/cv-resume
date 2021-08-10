@@ -1,6 +1,6 @@
 # CV Resume Design 🎨
 
-This website is a blueprint for a cv resume. Designed by [Freebie](https://freebiesui.com/).
+This website is a blueprint for a cv resume. Designed by [Freebie](https://freebiesui.com/figma-freebies/figma-web-templates/cv-resume-design/).
 
 ## Demo
 
