@@ -1,4 +1,4 @@
-# CV Resume Design 📃
+# CV Resume Design 🎨
 
 This website is a blueprint for a cv resume. Designed by [Freebie](https://freebiesui.com/).
 
