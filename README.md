@@ -8,7 +8,7 @@ This website is a blueprint for a cv resume. Designed by [Freebie](https://freeb
 
 ## Screenshots
 
-![demo.png](https://raw.githubusercontent.com/minhgiau998/richnguyen/master/images/project-3.png)
+![demo.png](https://drive.google.com/file/d/11U8BJznIv42pOipXuZ5_6FOcn_-ANXX2/view?usp=sharing)
 
 ## Color Reference
 
